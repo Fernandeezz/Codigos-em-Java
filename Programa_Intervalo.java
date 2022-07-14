@@ -1,3 +1,7 @@
+/* Faça um programa que leia um valor qualquer e apresente uma mensagem dizendo em qual dos seguintes intervalos ([0,25], (25,50], (50,75], (75,100]) 
+este valor se encontra. Caso o valor não esteja em nenhum destes intervalos, deverá ser impressa a mensagem: “Fora de intervalo”. /*
+
+
 import java.io.IOException;
 import java.util.Scanner;
 
